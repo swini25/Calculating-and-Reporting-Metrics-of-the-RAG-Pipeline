@@ -55,7 +55,7 @@ The application has been tested with a range of skincare queries to ensure its p
 - "How can I protect my skin from sun damage?"
 
 ## Video Demonstration
-A detailed video walkthrough of the application demonstrating its features and usage can be found [here](https://youtu.be/c9MU4RznusY).
+A detailed video walkthrough of the application demonstrating its features and usage can be found [here](https://youtu.be/hWBDv6Vnwj0).
 
 ## Documentation
 - **Flowise Documentation**: [Flowise Documentation](https://docs.flowiseai.com/)
